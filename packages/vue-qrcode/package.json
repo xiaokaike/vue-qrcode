@@ -24,7 +24,7 @@
   ],
   "peerDependencies": {
     "qrcode": "^1.0.0",
-    "vue": "^2.0.0"
+    "vue": "^2.6.14"
   },
   "dependencies": {
     "tslib": "^2.2.0"
